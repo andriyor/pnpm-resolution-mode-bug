@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "msw": "1.2.2"
+    "msw": "1.2.2",
+    "node-fetch": "^2.6.1"
   }
 }
